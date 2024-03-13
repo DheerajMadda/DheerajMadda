@@ -16,7 +16,7 @@ I am passionate about pushing the boundaries of what's possible in the world of 
 
 ### Some of my work that I have done:
 
-**`𝗦𝗲𝗹𝗳 𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗠𝗼𝗻𝗼𝗰𝘂𝗹𝗮𝗿 𝗗𝗲𝗽𝘁𝗵 𝗘𝘀𝘁𝗶𝗺𝗮𝘁𝗶𝗼𝗻`**
+**`Self Supervised Learning for Monocular Depth Estimatiob`**
 
 ![image](https://github.com/DheerajMadda/DheerajMadda/assets/50489165/97f61d82-3535-4ed1-9413-183b5576061e)
 
