@@ -12,6 +12,12 @@ Beyond Computer Vision, I excel in backend application development using FastAPI
 
 I am passionate about pushing the boundaries of what's possible in the world of Machine Learning and Computer Vision, continually seeking innovative solutions to complex challenges.
 
+---
+
+### Some of my work that I have done:
+
+`𝗦𝗲𝗹𝗳 𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗳𝗼𝗿 𝗠𝗼𝗻𝗼𝗰𝘂𝗹𝗮𝗿 𝗗𝗲𝗽𝘁𝗵 𝗘𝘀𝘁𝗶𝗺𝗮𝘁𝗶𝗼𝗻`
+
 <!--
 **DheerajMadda/DheerajMadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
