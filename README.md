@@ -1,4 +1,4 @@
-### Hi there 👋
+# ![image](https://github.com/DheerajMadda/DheerajMadda/assets/50489165/fc55736b-56e9-4d74-9815-e8a6da4cc191) Dheeraj Madda
 
 <!--
 **DheerajMadda/DheerajMadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
