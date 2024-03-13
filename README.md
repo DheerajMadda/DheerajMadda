@@ -14,27 +14,35 @@ I am passionate about pushing the boundaries of what's possible in the world of 
 
 ---
 
-### Some of my work that I have done:
+### Kind of work that I do:
 
 **`Extending a Multi-Task Network that does Monocular Depth Estimation and Semantic Segmentation to also perform Object Detection`**
 
 <img width="720" alt="image" src="https://github.com/DheerajMadda/DheerajMadda/assets/50489165/9faa057f-071b-4de7-a4d7-eb93fcd88f59">
 
+<br>
+<br>
 
 **`Self Supervised Learning for Monocular Depth Estimation`**
 
 <img width="720" alt="image" src="https://github.com/DheerajMadda/DheerajMadda/assets/50489165/97f61d82-3535-4ed1-9413-183b5576061e">
 
+<br>
+<br>
 
 **`Compressing a Monocular Depth Estimation Regressor Network`**
 
 <img width="720" alt="image" src="https://github.com/DheerajMadda/DheerajMadda/assets/50489165/b00cfded-aaf1-4710-8f7a-9a4b2945fd8d">
 
+<br>
+<br>
 
 **`Real-time Multi-Task Learning for Indoor and Outdoor scenes using Aysmmetric Annotations`**
 
 <img width="720" alt="image" src="https://github.com/DheerajMadda/DheerajMadda/assets/50489165/956abe52-7bd2-445a-b8f1-b4933c0b9f2c">
 
+<br>
+<br>
 
 <!--
 **DheerajMadda/DheerajMadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
